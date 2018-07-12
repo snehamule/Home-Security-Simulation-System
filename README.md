@@ -12,7 +12,7 @@ Java , Java swing <br />
 
 ## Setup required:<br />
 Java version: 1.8 or greater<br />
-
+# Steps How Program work
 
 ## Run program : <br />
 1. Download code from git  using  git clone .
