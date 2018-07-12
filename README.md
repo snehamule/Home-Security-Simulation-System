@@ -18,7 +18,7 @@ Java version: 1.8 or greater<br />
 1. Download code from git  using  git clone .
 2. For  compile java program 
 ```
-	javac HomePageUI.java.java
+	javac HomePageUI.java
 ```	
 4. To run java program 
 ```
