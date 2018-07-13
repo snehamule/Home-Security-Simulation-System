@@ -1,10 +1,13 @@
 # Simultaion of Home Security System
 
-This application is simulation of home security system. 
-This folder also included sequence diagram.<br />
+This application is Simulation of home security and control system. The security system protects users from intrusion & fire and provides notification to system users. If the system detects fire, then system starts Sprinkler. System will generate maintance bill for each month.Month at which fire or intrusion detect system will add extra calling and mainitance charge for erticular month.User can view yearly/monthy report for any month after start registering to the home security system.
+This project has scoping and requirement document to complete end to end application cycle - 
+documents includes Use case identification, CRC card creation, class diagrams - UML, sequence 
+diagrams.<br />
 
 ## Description: 
 View,Model,Controller files: Description Mention
+This application has MVC(Model- View -  Controller) design pattern. All the view files in the view folders, database connection files in the Controller folder and  functionally is in the Model folder.
 <br />
 
 ## Technology used: <br />
