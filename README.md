@@ -30,6 +30,6 @@ Java version: 1.8 or greater<br />
 ```
 5. To generate bill run commond
 ```
-	java Source_Code/views/HomePageUI.java
+	java Source_Code/views/BillGeneratorTableUI.java
 ```
 
