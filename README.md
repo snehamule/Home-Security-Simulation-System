@@ -6,9 +6,10 @@ documents includes Use case identification, CRC card creation, class diagrams - 
 diagrams.<br />
 
 ## Description: 
-View,Model,Controller files: Description Mention
-This application has MVC(Model- View -  Controller) design pattern. All the view files in the view folders, database connection files in the Controller folder and  functionally is in the Model folder.
-<br />
+This project uses Model-View-Controller Design pattern.<br />
+UI files are in the View Folder.<br />
+Database connection files in the Controller folder.<br />
+Functionally is in the Model folder.<br />
 
 ## Technology used: <br />
 Java , Java swing <br />
