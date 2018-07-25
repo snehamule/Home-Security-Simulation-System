@@ -1,6 +1,6 @@
 # Simultaion of Home Security System
 
-This application is Simulation of home security and control system. The security system protects users from intrusion & fire and provides notification to system users. If the system detects fire, then system starts Sprinkler. System will generate maintance bill for each month.Month at which fire or intrusion detect system will add extra calling and mainitance charge for erticular month.User can view yearly/monthy report for any month after start registering to the home security system.
+This application is Simulation of home security and control system. <br />The security system protects users from intrusion & fire and provides notification to system users. If the system detects fire, then system starts Sprinkler.<br /> System will generate maintance bill for each month.Month at which fire or intrusion detect system will add extra calling and mainitance charge for erticular month.User can view yearly/monthy report for any month after start registering to the home security system.<br />
 This project has scoping and requirement document to complete end to end application cycle - 
 documents includes Use case identification, CRC card creation, class diagrams - UML, sequence 
 diagrams.<br />
@@ -22,10 +22,14 @@ Java version: 1.8 or greater<br />
 1. Download code from git  using  git clone .
 2. For  compile java program 
 ```
-	javac HomePageUI.java
+	javac Source_Code/views/HomePageUI.java
 ```	
 4. To run java program 
 ```
-	java HomePageUI.java
+	java Source_Code/views/HomePageUI.java
+```
+5. To generate bill run commond
+```
+	java Source_Code/views/HomePageUI.java
 ```
 
