@@ -7,9 +7,9 @@ diagrams.<br />
 
 ## Description: 
 This project uses Model-View-Controller Design pattern.<br />
-UI files are in the View Folder.<br />
-Database connection files in the Controller folder.<br />
-Functionally is in the Model folder.<br />
+*UI files are in the View Folder.<br />
+*Database connection files in the Controller folder.<br />
+*Functionally is in the Model folder.<br />
 
 ## Technology used: <br />
 Java , Java swing <br />
