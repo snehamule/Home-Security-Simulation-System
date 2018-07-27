@@ -16,8 +16,20 @@ Java , Java swing <br />
 
 ## Setup required:<br />
 Java version: 1.8 or greater<br />
-## Steps How Program work
 
+## Install JDK <br />
+If jdk is not installed then need to install JDK:<br />
+<br />
+**For  osx operating system (mac)**<br />
+	Refer JDK installation [JDK installment guide for OSX](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html) 
+	
+**For windows operating system**<br />
+	Refer JDK installation [JDK installment guide for Windows](https://docs.oracle.com/javase/7/docs/webnotes/install/windows/jdk-installation-windows.html) 
+	
+## Check Java version:
+java -version
+
+## Steps How Program work
 ## Run program : <br />
 1. Download code from git  using  git clone .
 2. For  compile java program 
